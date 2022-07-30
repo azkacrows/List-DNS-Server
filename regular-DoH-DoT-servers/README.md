@@ -1,2 +1,2 @@
-- 5691 IPv4 Alamat
-- 126 IPv6 Alamat
+- 5691 Alamat IPv4
+- 126 Alamat IPv6
